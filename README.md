@@ -5,4 +5,4 @@ Python tool to resize automatically images in a folder
 ## Usage
 
 - Set current directory to a folder in which there are PNG images to resize.
-- Launch this script
+- Launch `python resize.py`
